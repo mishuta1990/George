@@ -1,0 +1,15 @@
+REGULAR George 
+LIMITED Mira 3
+Start!
+Play George 2
+Play Mira 3
+AddPath 6
+Play George 6
+Play Mira 2
+AddLadder 9 15
+Play George 6
+Play Mira 6
+AddSnake 27 10
+Play George 3
+Play Mira 4
+Play George 6
